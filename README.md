@@ -1,7 +1,9 @@
 [![Build Status](https://travis-ci.org/campoy/embedmd.svg)](https://travis-ci.org/campoy/embedmd) [![Go Report Card](https://goreportcard.com/badge/github.com/campoy/embedmd)](https://goreportcard.com/report/github.com/campoy/embedmd)
 
+### This is an active fork of https://github.com/campoy/embedmd to support modern development in go, since last update there was 6 years ago and had some unresolved issues.
 
 # embedmd
+
 
 Are you tired of copy pasting your code into your `README.md` file, just to
 forget about it later on and have unsynced copies? Or even worse, code
